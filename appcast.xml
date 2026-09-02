@@ -6,6 +6,17 @@
     <description>Mises à jour de DicteeIA</description>
     <item>
       <title>Version 1.0.0</title>
+      <pubDate>Wed, 02 Sep 2026 20:08:00 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/DICTIA-Share/releases/download/v1.0.0/DicteeIA-1.0.0.zip"
+                 sparkle:edSignature="5OxXqkx0c5SRh5jVRZwZs2i0tyew4itLAm3TqBK7gZk5+li2S1Ov/gCy5cCB9xJXTk8BKfH6aV8o3iY68313Dw=="
+                 length="1142379"
+                 type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.0</title>
       <pubDate>Wed, 02 Sep 2026 19:42:12 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
