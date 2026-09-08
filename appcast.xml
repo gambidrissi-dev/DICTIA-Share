@@ -5,6 +5,17 @@
     <link>https://github.com/gambidrissi-dev/DICTIA-Share</link>
     <description>Mises à jour de DicteeIA</description>
     <item>
+      <title>Version 2.0.2</title>
+      <pubDate>Tue, 08 Sep 2026 23:45:49 +0000</pubDate>
+      <sparkle:version>2.0.2</sparkle:version>
+      <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/DICTIA-Share/releases/download/v2.0.2/DicteeIA-2.0.2.zip"
+                 sparkle:edSignature="03M7G5NqoWWUa4iJSrZWoXjishX/ONrDS9F6ddW4nG/8hiEoO4syCVK0QW2uLU0Hyvza88+3MfWN+f4qJxCnDQ=="
+                 length="1188481"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.0.1</title>
       <pubDate>Tue, 08 Sep 2026 23:43:03 +0000</pubDate>
       <sparkle:version>2.0.1</sparkle:version>
