@@ -5,6 +5,17 @@
     <link>https://github.com/gambidrissi-dev/DICTIA-Share</link>
     <description>Mises à jour de DicteeIA</description>
     <item>
+      <title>Version 1.7.1</title>
+      <pubDate>Tue, 08 Sep 2026 19:38:05 +0000</pubDate>
+      <sparkle:version>1.7.1</sparkle:version>
+      <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/DICTIA-Share/releases/download/v1.7.1/DicteeIA-1.7.1.zip"
+                 sparkle:edSignature="GFS8laG3i/RL2AsEJbiW4ZmJEQqC2ctHyV24ZUGU5Fza9tmCLJnKY08MUOzS0eVQohuTgF901nm4xnE0GJJ6Dw=="
+                 length="2758333"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.7.0</title>
       <pubDate>Tue, 08 Sep 2026 19:28:16 +0000</pubDate>
       <sparkle:version>1.7.0</sparkle:version>
